@@ -57,7 +57,7 @@ dependencies {
     implementation("androidx.compose.material:material-icons-core")
 
     // koin
-    implementation("io.insert-koin:koin-android:3.3.3")
+    implementation("io.insert-koin:koin-androidx-compose:3.4.0")
 
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
