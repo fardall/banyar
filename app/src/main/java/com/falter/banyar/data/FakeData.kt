@@ -21,43 +21,43 @@ object FakeData {
         ),
         Message(
             "8.03 PM",
-            "Fardal",
+            "Annnn",
             "",
             "I'm sorry for the confusion earlier. Let's work together to resolve this issue as soon as possible."
         ),
         Message(
             "8.04 PM",
-            "Fardal",
+            "Annnn",
             "",
             "Just a reminder: the deadline for project submissions is approaching. Make sure everything is on track."
         ),
         Message(
             "8.05 PM",
-            "Fardal",
+            "Aldy",
             "",
             "Just a reminder: the deadline for project submissions is approaching. Make sure everything is on track."
         ),
         Message(
             "8.06 PM",
-            "Fardal",
+            "Aldy",
             "",
             "Just a reminder: the deadline for project submissions is approaching. Make sure everything is on track."
         ),
         Message(
             "8.07 PM",
-            "Fardal",
+            "Kiyo",
             "",
             "Thank you for your assistance. Your support has been invaluable during this process."
         ),
         Message(
             "8.08 PM",
-            "Fardal",
+            "Kiyo",
             "",
             "I'll be out of the office for the remainder of the day. I'll get back to you first thing tomorrow morning."
         ),
         Message(
             "8.09 PM",
-            "Fardal",
+            "Kiyo",
             "",
             "We're excited to announce our upcoming event! Save the date and stay tuned for more details."
         ),
